@@ -1,0 +1,5 @@
+ticket_type_surrogate_key,ticket_type_natural_key,Violation,Fee
+1,P1,Meter Expired,100
+2,P2,Hydrant,150
+3,D1,Red Light,200
+4,D2,Seat Belt,100

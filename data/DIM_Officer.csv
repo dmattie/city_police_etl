@@ -1,0 +1,4 @@
+ surrogate_key,natural_key,OfficerName,OfficerRank
+ 101,1,Joe,Sergeant
+ 102,2,Mike,Patrolman
+ 103,3,Bob,Patrolman

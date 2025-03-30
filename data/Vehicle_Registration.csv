@@ -1,0 +1,4 @@
+VehicleLPN,VehicleMake,VehicleModel,VehicleYear,OwnerDLN,OwnerName,OwnerGender,OwnerBirthYear
+IL1111,Honda,CRV,2017,111,Bill,Make,1998
+IL2222,Honda,Civic,2020,222,Suzy,Female,1987
+IL3333,Honda,Civic,2018,333,David,Male,1974
